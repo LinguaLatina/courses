@@ -8,4 +8,3 @@ title: Courses
 Course material (syllabi, assignments) from courses.
 
 
-See <https://lingualatina.github.io/courses/>.

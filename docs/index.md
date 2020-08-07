@@ -12,6 +12,6 @@ We plan to host here material such as syllabi, slide stacks, exercises, and assi
 
 - Latin 101 at Holy Cross, F20:
     - [Section 1](https://neelsmith.github.io/latin101/) (Neel Smith)
-    - [Section 1](https://dominicmachado.github.io/latn101-f20) (Dominic Machado)
+    - [Section 2](https://dominicmachado.github.io/latn101-f20) (Dominic Machado)
 - [Latin 101 at Holy Cross, F19](https://libatique.info/LATN101-F19/) (Daniel Libatique, Dominic Machado)
 - [Latin 102 at Holy Cross, S20](https://libatique.info/LATN102-S20/) (Daniel Libatique, Dominic Machado)

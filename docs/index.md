@@ -1,11 +1,21 @@
 ---
 layout: page
-title: Courses
+title: Course material
+nav_order: 0
 ---
 
-# *Lingua Latina Legenda*: courses
+# *Lingua Latina Legenda*: course material
 
-We plan to host here material such as syllabi, slide stacks, exercises, and assignments, from courses that can used to supplement the *Lingua Latina Legenda* textbook (online at <https://lingualatina.github.io/textbook/>).
+We're hosting here material such as syllabi, slide stacks, exercises, and assignments that can used to supplement the *Lingua Latina Legenda* textbook (online at <https://lingualatina.github.io/textbook/>).
+
+
+## Youtube
+
+- [Guide to the L3 youtube channel](./youtube/)
+
+
+
+
 
 ## Some course sites
 

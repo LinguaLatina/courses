@@ -15,3 +15,4 @@ On [youtube](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg?view_as=su
 - [The accusative and dative cases](https://youtu.be/7Efh1Wycx0g). A first look at the the "target case" (the accusative) and the "winners and losers" case (the dative) in Latin.  (Slides used in this video:  [pdf](./slides/accusative-dative.pdf).)
 - [Noun-adjective agreement](https://youtu.be/h5ZG-GM3EFA). A brief introduction on noun-adjective agreement.
 - [How to read an adjective entry](https://youtu.be/a_iyFuYTma4). A short video on how to read the dictionary entry of an adjective.
+- [Introduction to verbal inflection](https://youtu.be/3W-s_L82MLc).  Introduction to verbal inflection: we can learn what Latin verb forms mean by  identifying person, number, tense, mood and voice.  (Slides for this video with typos in English text corrected:  [pdf](./slides/verbal-inflection.pdf))

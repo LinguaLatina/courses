@@ -16,7 +16,7 @@ On [youtube](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg?view_as=su
 1. [Noun-adjective agreement](https://youtu.be/h5ZG-GM3EFA). A brief introduction on noun-adjective agreement.
 1. [How to read an adjective entry](https://youtu.be/a_iyFuYTma4). A short video on how to read the dictionary entry of an adjective.
 1. [Introduction to verbal inflection](https://youtu.be/3W-s_L82MLc).  Introduction to verbal inflection: we can learn what Latin verb forms mean by  identifying person, number, tense, mood and voice.  (Slides for this video with typos in English text corrected:  [pdf](./slides/verbal-inflection.pdf))
-1. [Understanding active and passive voice](https://youtu.be/umIKSDePFm4). 
+1. [Understanding active and passive voice](https://youtu.be/umIKSDePFm4).
 1. [Introduction to pronouns](https://youtu.be/Ko88xi01AMY). A brief introduction to Latin pronouns.
-1. [Forming the imperfect and perfect indicative](https://youtu.be/ghll0S0AxsI). Introduction to principal parts of verbs, and how to form imperfect and perfect indicative forms.
+1. [Forming the imperfect and perfect indicative](https://youtu.be/ghll0S0AxsI). Introduction to principal parts of verbs, and how to form imperfect and perfect indicative forms.   (Slides used in this:  [pdf](./slides/pft-impft.pdf))
 1. [Myths of Hercules](https://youtu.be/xT2Trc0r9RA). Introduction to the twelve labors.

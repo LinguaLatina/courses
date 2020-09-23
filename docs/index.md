@@ -9,11 +9,13 @@ nav_order: 0
 We're hosting here material such as syllabi, slide stacks, exercises, and assignments that can used to supplement the *Lingua Latina Legenda* textbook (online at <https://lingualatina.github.io/textbook/>).
 
 
+## Who's who in Hyginus
+
+- a [guide to characters in Hyginus' *Fabulae*](./hyginus-who/) by Holy Cross students in first-year Latin
+
 ## Youtube
 
 - [Guide to the L3 youtube channel](./youtube/)
-
-
 
 
 

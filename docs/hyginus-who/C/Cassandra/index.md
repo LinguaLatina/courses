@@ -20,3 +20,16 @@ Contribution by *Lyra Chen*
 ## Dictionary entry
 
 *Cassandra, Cassandrae* (feminine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n6944).
+
+
+## In Hyginus:  9 passages
+
+1. [90a](https://lingualatina.github.io/texts/browsable/hyginus/90a/)
+1. [91a](https://lingualatina.github.io/texts/browsable/hyginus/91a/)
+1. [93a](https://lingualatina.github.io/texts/browsable/hyginus/93a/)
+1. [93a](https://lingualatina.github.io/texts/browsable/hyginus/93a/)
+1. [108a](https://lingualatina.github.io/texts/browsable/hyginus/108a/)
+1. [116a](https://lingualatina.github.io/texts/browsable/hyginus/116a/)
+1. [116a](https://lingualatina.github.io/texts/browsable/hyginus/116a/)
+1. [117a](https://lingualatina.github.io/texts/browsable/hyginus/117a/)
+1. [128a](https://lingualatina.github.io/texts/browsable/hyginus/128a/)

@@ -20,3 +20,16 @@ Contribution by *Ronan Marrinan*
 ## Dictionary entry
 
 *Neleus, Nelei* (masculine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n30698).
+
+
+## In Hyginus:  9 passages
+
+1. [10pr](https://lingualatina.github.io/texts/browsable/hyginus/10pr/)
+1. [10pr](https://lingualatina.github.io/texts/browsable/hyginus/10pr/)
+1. [14pr](https://lingualatina.github.io/texts/browsable/hyginus/14pr/)
+1. [14pr](https://lingualatina.github.io/texts/browsable/hyginus/14pr/)
+1. [31pr](https://lingualatina.github.io/texts/browsable/hyginus/31pr/)
+1. [97a](https://lingualatina.github.io/texts/browsable/hyginus/97a/)
+1. [157a](https://lingualatina.github.io/texts/browsable/hyginus/157a/)
+1. [244_237](https://lingualatina.github.io/texts/browsable/hyginus/244_237/)
+1. [273_268](https://lingualatina.github.io/texts/browsable/hyginus/273_268/)

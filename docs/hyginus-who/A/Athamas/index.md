@@ -20,3 +20,21 @@ Contribution by *Anna Conlon*
 ## Dictionary entry
 
 *Athamas, Athamantis* (masculine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n4239).
+
+
+## In Hyginus:  14 passages
+
+1. [1pr](https://lingualatina.github.io/texts/browsable/hyginus/1pr/)
+1. [2pr](https://lingualatina.github.io/texts/browsable/hyginus/2pr/)
+1. [2pr](https://lingualatina.github.io/texts/browsable/hyginus/2pr/)
+1. [2pr](https://lingualatina.github.io/texts/browsable/hyginus/2pr/)
+1. [4pr](https://lingualatina.github.io/texts/browsable/hyginus/4pr/)
+1. [4pr](https://lingualatina.github.io/texts/browsable/hyginus/4pr/)
+1. [5pr](https://lingualatina.github.io/texts/browsable/hyginus/5pr/)
+1. [5pr](https://lingualatina.github.io/texts/browsable/hyginus/5pr/)
+1. [170a](https://lingualatina.github.io/texts/browsable/hyginus/170a/)
+1. [224_218](https://lingualatina.github.io/texts/browsable/hyginus/224_218/)
+1. [239_237](https://lingualatina.github.io/texts/browsable/hyginus/239_237/)
+1. [239_237](https://lingualatina.github.io/texts/browsable/hyginus/239_237/)
+1. [245_237](https://lingualatina.github.io/texts/browsable/hyginus/245_237/)
+1. [273_268](https://lingualatina.github.io/texts/browsable/hyginus/273_268/)

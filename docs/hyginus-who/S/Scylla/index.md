@@ -20,3 +20,19 @@ Contribution by *Nick Tormey*
 ## Dictionary entry
 
 *Scylla, Scyllae* (feminine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n43184).
+
+
+## In Hyginus:  12 passages
+
+1. [pr](https://lingualatina.github.io/texts/browsable/hyginus/pr/)
+1. [pr](https://lingualatina.github.io/texts/browsable/hyginus/pr/)
+1. [125a](https://lingualatina.github.io/texts/browsable/hyginus/125a/)
+1. [151a](https://lingualatina.github.io/texts/browsable/hyginus/151a/)
+1. [170a](https://lingualatina.github.io/texts/browsable/hyginus/170a/)
+1. [198a](https://lingualatina.github.io/texts/browsable/hyginus/198a/)
+1. [198a](https://lingualatina.github.io/texts/browsable/hyginus/198a/)
+1. [199a](https://lingualatina.github.io/texts/browsable/hyginus/199a/)
+1. [199a](https://lingualatina.github.io/texts/browsable/hyginus/199a/)
+1. [199a](https://lingualatina.github.io/texts/browsable/hyginus/199a/)
+1. [255_237](https://lingualatina.github.io/texts/browsable/hyginus/255_237/)
+1. [273_268](https://lingualatina.github.io/texts/browsable/hyginus/273_268/)

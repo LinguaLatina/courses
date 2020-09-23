@@ -20,3 +20,13 @@ Contribution by *Mary Edmonds*
 ## Dictionary entry
 
 *Eumaeus, Eumaei * (masculine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n16342).
+
+
+## In Hyginus:  6 passages
+
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)
+1. [126a](https://lingualatina.github.io/texts/browsable/hyginus/126a/)

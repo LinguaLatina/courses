@@ -20,3 +20,15 @@ Contribution by *Lyra Chen *
 ## Dictionary entry
 
 *Aurora, Aurorae* (feminine). See [entry in Lewis-Short](http://folio2.furman.edu/lewis-short/index.html?urn=urn:cite2:hmt:ls.markdown:n4581).
+
+
+## In Hyginus:  8 passages
+
+1. [pr](https://lingualatina.github.io/texts/browsable/hyginus/pr/)
+1. [pr](https://lingualatina.github.io/texts/browsable/hyginus/pr/)
+1. [189a](https://lingualatina.github.io/texts/browsable/hyginus/189a/)
+1. [189a](https://lingualatina.github.io/texts/browsable/hyginus/189a/)
+1. [189a](https://lingualatina.github.io/texts/browsable/hyginus/189a/)
+1. [189a](https://lingualatina.github.io/texts/browsable/hyginus/189a/)
+1. [189a](https://lingualatina.github.io/texts/browsable/hyginus/189a/)
+1. [270_268](https://lingualatina.github.io/texts/browsable/hyginus/270_268/)

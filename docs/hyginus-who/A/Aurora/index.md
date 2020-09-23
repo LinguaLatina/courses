@@ -9,7 +9,7 @@ grand_parent: Characters in Hyginus
 # Aurora
 
 
-Contribution by *Lyra Chen *
+Contribution by *Lyra Chen*
 
 
 ## Summary

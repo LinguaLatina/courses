@@ -17,9 +17,16 @@ We're hosting here material such as syllabi, slide stacks, exercises, and assign
 
 - [Guide to the L3 youtube channel](./youtube/)
 
-## Observable notebooks
+## Quizzes
 
-- interactive notebooks for [searching the text of Hyginus](https://observablehq.com/collection/@neelsmith/latin) (including searching by morphological properties)
+- interactive pages for [self-quizzing](https://observablehq.com/collection/@neelsmith/l3)
+
+
+## Notebooks for working with Hyginus
+
+- interactive pages for working with [vocabulary and forms in Hyginus, *Fabulae*](https://observablehq.com/collection/@neelsmith/latin)
+
+
 
 ## Some course sites
 

@@ -7,6 +7,9 @@ nav_order: 1
 # The L3 youtube channel
 
 
+In 2020-2021, project contributors developed a series of short videos summarized here. The sequence of topics in the initial draft of the L3 textbook differs slightly from the current draft (academic year 2022-2023).
+
+
 On [youtube](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg?view_as=subscriber)
 
 1. [Welcome to Latin 101](https://youtu.be/rm7NZqHxFNE)! Welcome video from Holy Cross Latin 101-102, F20-S21.

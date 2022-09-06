@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L3 youtube channel
-nav_order: 1
+nav_order: 10
 ---
 
 # The L3 youtube channel

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Course web sites"
-nav_order: 5
+nav_order: 15
 has_children: true
 ---
 

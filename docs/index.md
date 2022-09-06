@@ -6,7 +6,10 @@ nav_order: 0
 
 # *Lingua Latina Legenda*: course material
 
-We're hosting here material such as syllabi, slide stacks, exercises, and assignments that can used to supplement the *Lingua Latina Legenda* textbook (online at <https://lingualatina.github.io/textbook/>).
+Use material hosted her to build your own course using the *Lingua Latina Legenda* textbook ([online here](https://lingualatina.github.io/textbook/)).
+
+
+- exercises students can use independently for [interactive practice](./interactive)
 
 
 ## Who's who in Hyginus

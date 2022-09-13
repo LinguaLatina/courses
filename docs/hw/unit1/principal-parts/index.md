@@ -3,7 +3,7 @@ layout: page
 title: "Principal parts"
 parent: "Practice: unit 1"
 nav_order: 1
-grand_parent: "Practice"
+grand_parent: "Practice exercises"
 has_children: true
 ---
 

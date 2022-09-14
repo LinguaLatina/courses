@@ -36,17 +36,27 @@ md"""
 """
 
 # ╔═╡ 8ebb187a-7c9a-43c7-8be8-e0821aa43159
-md"""!!! note "Hide all these"
+md"""
+> If you want to see how this notebook works, unhide the cells below here.
 """
 
+# ╔═╡ bf155d8f-b80c-4d0c-9a52-525098d65e24
+answerwidget = @bind useranswer TextField(placeholder="(Enter your answer)");
+
 # ╔═╡ 077d4aae-73db-4951-966b-10bc84cc72aa
-csv = "https://raw.githubusercontent.com/neelsmith/latin101/master/F20/quizbank/coininfoA.csv" 
+csv = "https://raw.githubusercontent.com/LinguaLatina/courses/master/pluto/data/coins1.csv" 
+
+# ╔═╡ 89504c23-2156-4042-9bf8-7589c4931166
+dataurl = "https://raw.githubusercontent.com/LinguaLatina/courses/master/pluto/data/coinqueries1.csv"
+
+# ╔═╡ e64364fb-334e-4f30-8bf2-e32b399bc3af
+querydata = urldownload(dataurl);
 
 # ╔═╡ 2b484597-bfd2-4217-b289-bdd4521e8ced
-coins = urldownload(csv)
+coins = urldownload(csv);
 
 # ╔═╡ e9167fb2-9d52-4363-b4ad-93815094cae7
-menu = map(c -> c.label, coins) 
+menu = map(c -> c.label, coins) ;
 
 # ╔═╡ 41e92a11-2e73-4c79-adeb-4a9289312f8a
 md"""
@@ -54,11 +64,47 @@ md"""
 """
 
 # ╔═╡ 1356767d-4cca-4cd3-92f6-3dae0dcfca48
-selected = filter(c -> c.label == coin, coins)[1]
+selected = filter(c -> c.label == coin, coins)[1];
 
 
 # ╔═╡ 833a11e9-1b3f-40f8-913f-1fda8e955778
 img = selected.url |> download |> load
+
+# ╔═╡ 89eec6f0-2a85-4f41-b4c6-b344beee3101
+queries = filter( q -> q.coin == selected.id, querydata);
+
+# ╔═╡ 8521d808-9892-42b2-a303-a62db7bb0b1b
+questions = map(q -> q.question, queries);
+
+# ╔═╡ a4ff22ae-eaf4-4408-9500-1fc7b01fa77d
+md"""*Select a question:* $(@bind question Select(questions))
+"""
+
+# ╔═╡ 92e0eb42-1f26-40fd-82e5-c290c3dd9d6b
+feedback = begin
+	if isempty(useranswer)
+		md""
+	else
+		useranswer
+		qdata = filter(q -> q.question == question, queries)[1]
+		useranswer == qdata.answer ? md"✅" : md"❌"
+	end
+end;
+
+
+# ╔═╡ cfb656b3-d80e-412a-8f30-b104ab784cdb
+PlutoUI.ExperimentalLayout.grid([
+	answerwidget feedback
+
+])
+
+
+# ╔═╡ f554eed4-05c4-4465-afc6-abd2a4b7e7af
+legend = selected.legend |> String ;
+
+# ╔═╡ 2891664b-1611-428c-8a83-3eaf35bfa5ea
+md"""*Legend (reading)*: **$(legend)**
+"""
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -1053,12 +1099,22 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 # ╟─312b873b-17fa-49fe-858e-2c55e169da42
 # ╟─cc718276-3446-11ed-26b4-63b3ecbf1b9c
 # ╟─41e92a11-2e73-4c79-adeb-4a9289312f8a
+# ╟─a4ff22ae-eaf4-4408-9500-1fc7b01fa77d
+# ╟─cfb656b3-d80e-412a-8f30-b104ab784cdb
+# ╟─2891664b-1611-428c-8a83-3eaf35bfa5ea
 # ╟─833a11e9-1b3f-40f8-913f-1fda8e955778
 # ╟─8ebb187a-7c9a-43c7-8be8-e0821aa43159
-# ╠═80832c25-c6c7-404c-8f93-312c4bc16e2f
+# ╟─077d4aae-73db-4951-966b-10bc84cc72aa
+# ╟─89504c23-2156-4042-9bf8-7589c4931166
+# ╟─bf155d8f-b80c-4d0c-9a52-525098d65e24
+# ╟─92e0eb42-1f26-40fd-82e5-c290c3dd9d6b
+# ╟─80832c25-c6c7-404c-8f93-312c4bc16e2f
+# ╟─e64364fb-334e-4f30-8bf2-e32b399bc3af
+# ╟─2b484597-bfd2-4217-b289-bdd4521e8ced
+# ╟─89eec6f0-2a85-4f41-b4c6-b344beee3101
+# ╟─f554eed4-05c4-4465-afc6-abd2a4b7e7af
 # ╟─1356767d-4cca-4cd3-92f6-3dae0dcfca48
-# ╠═077d4aae-73db-4951-966b-10bc84cc72aa
-# ╠═2b484597-bfd2-4217-b289-bdd4521e8ced
-# ╠═e9167fb2-9d52-4363-b4ad-93815094cae7
+# ╟─8521d808-9892-42b2-a303-a62db7bb0b1b
+# ╟─e9167fb2-9d52-4363-b4ad-93815094cae7
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
